@@ -1,0 +1,6 @@
+framework module Pods_YXNumberAnimationLabel_Tests {
+  umbrella header "Pods-YXNumberAnimationLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

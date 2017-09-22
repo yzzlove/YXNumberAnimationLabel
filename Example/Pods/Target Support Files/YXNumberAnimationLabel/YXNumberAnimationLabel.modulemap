@@ -1,0 +1,6 @@
+framework module YXNumberAnimationLabel {
+  umbrella header "YXNumberAnimationLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

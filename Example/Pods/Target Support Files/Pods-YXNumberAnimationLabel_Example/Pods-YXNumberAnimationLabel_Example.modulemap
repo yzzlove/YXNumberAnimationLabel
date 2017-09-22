@@ -1,0 +1,6 @@
+framework module Pods_YXNumberAnimationLabel_Example {
+  umbrella header "Pods-YXNumberAnimationLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
