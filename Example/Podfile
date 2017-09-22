@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YXNumberAnimationLabel_Example' do
+  pod 'YXNumberAnimationLabel', :path => '../'
+
+  target 'YXNumberAnimationLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
